@@ -1,8 +1,8 @@
 # GENERAL DISCLAIMER
 The original [Stately](https://github.com/intridea/stately) is copyrighted by [Intridea](http://www.intridea.com/) and you can find the original here » [Stately](https://github.com/intridea/stately)
 
-# StatelyBrazil
-StatelyBrazil is the Brazilian version [copied and adapted] of [Stately](https://github.com/intridea/stately). StatelyBrazil makes it easier to create maps for data visualization of Brazil using only HTML & CSS. Each state can be styled independently with CSS for making simple visualizations. And since it's a font, it scales whithout losing definition.
+# StatelyBR
+StatelyBR is the Brazilian version [copied and adapted] of [StatelyBrazil](http://ltartari.github.com/statelybrazil/). StatelyBR makes it easier to create maps for data visualization of Brazil using only HTML & CSS. Each state can be styled independently with CSS for making simple visualizations. And since it's a font, it scales whithout losing definition.
 
 ## Files
     statelybrazil/original-map.svg      - Original SVG map used to create the font
@@ -48,10 +48,10 @@ StatelyBrazil is a symbol font were the letters are formed by the shapes of the 
 
 
 ## Basic Use Case
-1. Download StatelyBrazil to your computer.
-2. Copy the `statelybrazil/assets/` and `statelybrazil/assets/` to your project public folder.
-3. Add the `statelybrazil.css` to the head of your document.
-``<link rel="stylesheet" href="assets/css/statelybrasil.css">``
+1. Download StatelyBR to your computer.
+2. Copy the `statelybr/assets/` and `statelybr/assets/` to your project public folder.
+3. Add the `statelybr.css` to the head of your document.
+``<link rel="stylesheet" href="assets/css/statelybr.css">``
 
 Then add this markup to the page:
 ```html
@@ -104,7 +104,7 @@ Then add this markup to the page:
 
 ## Live Example
 [Stately Microsite](http://intridea.github.com/stately/)
-[Stately Brazil Microsite](http://ltartari.github.com/statelybrazil/)
+[StatelyBR Microsite](http://webcloud.github.com/statelybr/)
 
 ## Resources
 [Free Online Font Converter](http://www.freefontconverter.com) - For converting SVG to TTF  
@@ -112,7 +112,11 @@ Then add this markup to the page:
 [Intridea Blog: How to Make Your Own Symbol Font](http://www.intridea.com/blog/2012/4/24/symbol-font) - A good starting place
 
 ## Credits
-StatelyBrazil project by:
+StatelyBR project by:
+* Vinicius Dallacqua
+  * [twitter](http://twitter.com/webtwitr)
+
+Stately Brazil project by:
 * Leo Tartari
   * [twitter](http://twitter.com/leotartari)
   * [website](http://leotartari.com)
